@@ -1,6 +1,11 @@
+/* bootstrap5 */
 @import url("https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css");
 
+/* tocas.io */
 @import url("https://cdnjs.cloudflare.com/ajax/libs/tocas-ui/2.3.3/tocas.css");
+
+/* devicon */
+@import url("https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css");
 
 
 /* 選擇邏輯 type-class-id */
