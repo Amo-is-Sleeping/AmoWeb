@@ -1,0 +1,10 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css");
+
+@import url("https://cdnjs.cloudflare.com/ajax/libs/tocas-ui/2.3.3/tocas.css");
+
+
+/* 選擇邏輯 type-class-id */
+/* cuz tocas.ui use class-selector, using id-selector */
+
+#only{ background-color: brown;
+    color : yellow; }
